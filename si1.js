@@ -1,4 +1,4 @@
-var x=600000, i = 1;
+var x=700000, i = 1;
 while(i<=180)
 {
     document.write(+x+);
